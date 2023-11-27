@@ -1,4 +1,4 @@
-# Instructions
+# Instructions (I have fixed all the bugs.)
 
 Welcome to Ramp's frontend interview challenge.
 
